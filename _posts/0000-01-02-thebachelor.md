@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Listening to coldplay, its boutta get real sad
 Use the left arrow to go back!
